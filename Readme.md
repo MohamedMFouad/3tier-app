@@ -1,4 +1,4 @@
-1. Architecture Diagram:
+1. Architecture  Diagram:
    
 - ![alt text](images/AWS-3tier.jpeg "Architecture")
 
